@@ -1,2 +1,2 @@
-# ecommerce-carrito
-Módulo del carro de compras del proyecto e-commerce. Permite agregar productos, visualizar el carrito y calcular totales.
+# README ecommerce-carrito
+Este repositorio contiene el módulo del carro de compras. Permite agregar productos, revisar el listado seleccionado y ver el total parcial de compra.
